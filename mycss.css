@@ -9,7 +9,7 @@
 }
 .jumbo1 {
   background-image: url(Images/2.png);
-   background-size: 100%;
+   background-size:cover;;
    padding: 9rem 2rem;
    color: white;
    text-align: left;
@@ -20,15 +20,15 @@
 }
 .jumbo3 {
   background-image: url(Images/25.png);
-  background-size: 100%;
+  background-size: cover;
 }
 .jumbo5 {
   background-image: url(Images/24.png);
-  background-size: 100%;
+  background-size: cover;
 }
 .jumbo7 {
   background-image: url(Images/23.png);
-  background-size: 100%;
+  background-size: cover;
 }
 .textleft {
   text-align: left;

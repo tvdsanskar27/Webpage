@@ -1,0 +1,46 @@
+.navbar {
+  padding: 1.5rem 1rem;
+}
+.jumbotron {
+    margin-bottom: 0rem;
+  }
+.textcenter {
+  text-align: center;
+}
+.jumbo1 {
+  background-image: url(Images/2.png);
+   background-size: 100%;
+   padding: 9rem 2rem;
+   color: white;
+   text-align: left;
+}
+.jumbo2 {
+  color: black;
+  padding: 9rem 2rem;
+}
+.jumbo3 {
+  background-image: url(Images/25.png);
+  background-size: 100%;
+}
+.jumbo5 {
+  background-image: url(Images/24.png);
+  background-size: 100%;
+}
+.jumbo7 {
+  background-image: url(Images/23.png);
+  background-size: 100%;
+}
+.textleft {
+  text-align: left;
+}
+ul {
+  list-style: none;
+
+  padding-left: 0px;
+}
+li {
+  margin-bottom: 20px;
+}
+a {
+  color :white;
+}
